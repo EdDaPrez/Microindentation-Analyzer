@@ -1,7 +1,7 @@
 # Microindentation-Analyzer
 A code to streamline processing results from Knoop and Vickers microindentation tests.
 
- - This code is designed to function in the 2024 version of MATLAB. It may not work as intended in other versions.
+ - This code is designed to function in MATLAB version R2024a. It may not work as intended in other versions.
  - The WHOLE "Indent Identifier" folder must be downloaded for the program to work as intended, as it references files within that folder.
  - This requires the installation of MATLAB's Computer Vision Toolbox, Deep Learning Toolbox, and Webcam Support Package
 (https://www.mathworks.com/matlabcentral/fileexchange/45182-matlab-support-package-for-usb-webcams).
